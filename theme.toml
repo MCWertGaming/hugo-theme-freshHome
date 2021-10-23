@@ -3,19 +3,19 @@
 
 name = "FreshHome"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
+licenselink = "https://github.com/MCWertGaming/hugo-theme-freshHome/blob/main/LICENSE"
+description = "A simple theme for your home or bookmark page."
 homepage = "http://example.com/"
-tags = []
-features = []
+tags = ["start-page", "fast", "single-page", "responsive", "simple", "clean", "one-page", "light"]
+features = ["responsive"]
 min_version = "0.41.0"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "Damon Leven"
+  homepage = "https://github.com/MCWertGaming"
 
 # If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "freshStart"
+  homepage = "https://github.com/rz3n/hugo-theme-freshstart"
+  repo = "https://github.com/rz3n/hugo-theme-freshstart"
